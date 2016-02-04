@@ -45,7 +45,7 @@ Note that delayed processing is currently only implemented for the `charge.succe
 ## Installation
 ##### Just click the button below
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=edguz2408&repo=ChatterPostUtilities">
+<a href="https://githubsfdeploy.herokuapp.com?owner=edguz2408&repo=stripeforce">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
